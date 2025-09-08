@@ -1,0 +1,19 @@
+{
+  "name": "FakeFiller Forms Auto",
+  "description": "Rellena automáticamente Google Forms en bucle.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://docs.google.com/forms/*"
+      ],
+      "js": ["chance.min.js","content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ]
+}
