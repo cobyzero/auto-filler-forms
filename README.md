@@ -1,14 +1,15 @@
-# ⚡ FakeFiller Forms Auto
+<div align="center">
+  <h1>⚡ FakeFiller Forms Auto</h1>
+  <p><i>Rellena y envía Google Forms automáticamente y en bucle con respuestas realistas y control de distribución porcentual.</i></p>
 
-> **Rellena y envía Google Forms automáticamente y en bucle con respuestas realistas y control de distribución porcentual.**
+  <p>
+    <img src="https://img.shields.io/badge/Platform-Chrome%20Extension-blue.svg?logo=google-chrome&logoColor=white" alt="Chrome Extension" />
+    <img src="https://img.shields.io/badge/Manifest-V3-orange.svg" alt="Manifest V3" />
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT" />
+  </p>
 
-[![Chrome Extension](https://img.shields.io/badge/Platform-Chrome%20Extension-blue.svg?logo=google-chrome&logoColor=white)](#)
-[![Manifest V3](https://img.shields.io/badge/Manifest-V3-orange.svg)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cobyzero/auto-filler-forms/refs/heads/main/1.png" alt="Vista previa de FakeFiller Forms Auto" width="400" />
-</p>
+  <img src="https://raw.githubusercontent.com/cobyzero/auto-filler-forms/refs/heads/main/1.png" alt="Vista previa de FakeFiller Forms Auto" width="480" style="border-radius: 10px;" />
+</div>
 
 ---
 
